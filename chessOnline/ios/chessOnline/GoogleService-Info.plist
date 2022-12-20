@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>73118825821-9ptqvc6gerq29qp1k7vpbm2u4t5suaai.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.73118825821-9ptqvc6gerq29qp1k7vpbm2u4t5suaai</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEFbZ8gzXbQYulnNfJvWKRX_pG5lKSWKU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>73118825821</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rnchessonline.app</string>
+	<key>PROJECT_ID</key>
+	<string>rnchess-73cfb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rnchess-73cfb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:73118825821:ios:aeab8d921dd2b8f792fcb4</string>
+</dict>
+</plist>
